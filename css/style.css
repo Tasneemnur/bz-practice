@@ -1,0 +1,37 @@
+.bz-bg{
+    background-color: #264653!important;
+    /* margin-bottom: 100px; */
+}
+.bz-primary{
+    background: #E76F51;
+    color: white;
+}
+.bz-text{
+    color: #E76F51!important;
+}
+.bz-outline{
+    color: #E76F51!important;
+    border: 1px solid #E76F51!important;
+}
+.bz-client{
+    width: 50%;
+}
+.bz-icon{
+    width: 18px;
+}
+.bz-secondary{
+color:#23A6F0;
+}
+.bz-width{
+    width: 90%;
+    margin: 0px auto;
+}
+.bz-footer-bg{
+    background-color: #0B0D17!important;
+}
+.bz-img-width{
+    width: 50%;
+}
+.bz-gray{
+    filter: grayscale(10);
+}
